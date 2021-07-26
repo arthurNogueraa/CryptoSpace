@@ -1,11 +1,11 @@
 
-#CryptoSpace:
+# CryptoSpace:
 
 Ce projet est destiné a la surveillance des fluctations de la cryptomonnaies, ainsi que la recuperation d'information quotidienne concernant celles-ci.
 
 
 
-#Outils:
+# Outils:
 
 Material UI , Tradingview , Twitter API, axios, 
 
