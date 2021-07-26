@@ -1,3 +1,16 @@
+
+#CryptoSpace:
+
+Ce projet est destiné a la surveillance des fluctations de la cryptomonnaies, ainsi que la recuperation d'information quotidienne concernant celles-ci.
+
+
+
+#Outils:
+
+Material UI , Tradingview , Twitter API, axios, 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
