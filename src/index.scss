@@ -1,0 +1,9 @@
+@import "./Components/Header/header.scss";
+@import "./Components/Footer/footer.scss";
+@import "./Components/GraphDrawing/graphDrawing.scss";
+@import "./Components/Twitters/twitter.scss";
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
